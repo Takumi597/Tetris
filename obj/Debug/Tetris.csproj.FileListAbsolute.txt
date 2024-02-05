@@ -1,0 +1,16 @@
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\Castle.Core.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\FakeItEasy.dll
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\Castle.Core.xml
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\bin\Debug\FakeItEasy.xml
+C:\Users\Jakub\Desktop\Projekty\Studia\PO\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
